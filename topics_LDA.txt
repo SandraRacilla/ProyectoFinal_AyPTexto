@@ -1,0 +1,26 @@
+				Temas LDA
+LDA Top 10 words for topic #0:
+['people', 'nhttps', 'stormed', 'building', 'just', 'death', 'officer', 'https', 'police', 'trump']
+
+
+
+LDA Top 10 words for topic #1:
+['president', 'riot', 'white', 'just', 'storming', 'attack', 'people', 'amp', 'trump', 'https']
+
+
+
+LDA Top 10 words for topic #2:
+['building', 'election', 'did', 'amp', 'mob', 'nhttps', 'police', 'people', 'https', 'trump']
+
+
+
+LDA Top 10 words for topic #3:
+['2021', 'president', 'riot', 'people', 'police', 'know', 'nhttps', 'building', 'https', 'trump']
+
+
+
+LDA Top 10 words for topic #4:
+['coup', 'police', 'inside', 'going', 'job', 'did', 'like', 'people', 'trump', 'attack']
+
+
+
