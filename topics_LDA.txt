@@ -1,26 +1,26 @@
 				Temas LDA
 LDA Top 10 words for topic #0:
-['people', 'nhttps', 'stormed', 'building', 'just', 'death', 'officer', 'https', 'police', 'trump']
+['death', 'amp', 'hill', 'died', 'building', 'just', 'trump', 'officer', 'people', 'police']
 
 
 
 LDA Top 10 words for topic #1:
-['president', 'riot', 'white', 'just', 'storming', 'attack', 'people', 'amp', 'trump', 'https']
+['people', 'peacefully', 'amp', 'police', '2021', 'heard', 'building', 'president', 'know', 'trump']
 
 
 
 LDA Top 10 words for topic #2:
-['building', 'election', 'did', 'amp', 'mob', 'nhttps', 'police', 'people', 'https', 'trump']
+['building', 'violence', 'attack', 'did', 'amp', 'just', 'riot', 'police', 'people', 'trump']
 
 
 
 LDA Top 10 words for topic #3:
-['2021', 'president', 'riot', 'people', 'police', 'know', 'nhttps', 'building', 'https', 'trump']
+['building', 'president', 'yes', 'storming', 'mob', 'amp', 'job', 'inside', 'trump', 'attack']
 
 
 
 LDA Top 10 words for topic #4:
-['coup', 'police', 'inside', 'going', 'job', 'did', 'like', 'people', 'trump', 'attack']
+['did', 'help', 'insurrection', 'just', 'attack', 'right', 'stormed', 'people', 'like', 'trump']
 
 
 
