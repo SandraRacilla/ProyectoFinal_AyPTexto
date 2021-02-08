@@ -7,6 +7,7 @@ import pandas as pd
 import numpy as np
 import os
 ##Uso de TFIDF
+from sklearn.feature_extraction import text
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.decomposition import NMF
 import random
@@ -22,10 +23,11 @@ def txt_NMF(reviews_datasets_NMF):
     max_df=0.80 -> Palabras que aparezcan al menos en 80% del documento
     min_df=2 -> Palabras que aparezcan al menos en 2 documentos
     """
-    tfidf_vect = TfidfVectorizer(max_df=0.8, min_df=2, stop_words='english')
+    my_stop_words=text.ENGLISH_STOP_WORDS.union(["https"],["nhttps"],["d4leu57x7h"])
+    tfidf_vect = TfidfVectorizer(max_df=0.8, min_df=2, stop_words=my_stop_words)
     ##Matriz generada con TFIDF
     doc_term_matrix = tfidf_vect.fit_transform(reviews_datasets_NMF['data__text'].values.astype('U'))
-
+    print(reviews_datasets_NMF['data__text'].values.astype('U'))
     """
     Uso de NMF para crear temas junto con la distribución de probabilidad para cada palabra del vocabulario
     n_components:5 -> Numero de categorias o temas que en las que queremos
@@ -37,7 +39,7 @@ def txt_NMF(reviews_datasets_NMF):
     nmf.fit(doc_term_matrix )
 
     #print(len(tfidf_vect.get_feature_names()))
-    #print(tfidf_vect.get_feature_names())
+    print(tfidf_vect.get_feature_names())
     """
     ###Palabras de nuestro vocabulario
     for i in range(10):
@@ -75,7 +77,8 @@ def txt_LDA(reviews_datasets_LDA):
     max_df=0.80 -> Palabras que aparezcan al menos en 80% del documento
     min_df=2 -> Palabras que aparezcan al menos en 2 documentos
     """
-    count_vect = CountVectorizer(max_df=0.8, min_df=2, stop_words='english')
+    my_stop_words=text.ENGLISH_STOP_WORDS.union(["https"],["nhttps"],["d4leu57x7h"])
+    count_vect = CountVectorizer(max_df=0.8, min_df=2, stop_words=my_stop_words)
     doc_term_matrix = count_vect.fit_transform(reviews_datasets_LDA['data__text'].values.astype('U'))
 
     """
