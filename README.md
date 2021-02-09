@@ -7,15 +7,15 @@
 
 #
 
-## Integrantes:
+### Integrantes:
 
-### Aguilar Luna Gabriel Daniel @GabDn
+#### Aguilar Luna Gabriel Daniel @GabDn
 
-### García Racilla Sandra @SandraRacilla
+#### García Racilla Sandra @SandraRacilla
 
-### Rosales Almazán Laura Angélica
+#### Rosales Almazán Laura Angélica
 
-### Suárez Espinoza Mario Alberto @masues
+#### Suárez Espinoza Mario Alberto @masues
 
 #
 
