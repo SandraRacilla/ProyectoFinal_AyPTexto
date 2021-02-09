@@ -1,26 +1,31 @@
 				Temas LDA
 LDA Top 10 words for topic #0:
 ['died', 'donald', 'just', 'make', 'know', 'president', 'police', 'building', 'trump', 'people']
+US Capitol riot: Police officer dies amid pressure on Trump over inciting violence - BBC News
 
 
 
 LDA Top 10 words for topic #1:
 ['antifa', 'insurrection', 'riot', 'coup', 'attack', 'police', 'people', 'supporters', 'amp', 'trump']
+The far right is falsely blaming antifa for the pro-Trump insurrection on Capitol Hill - Vox
 
 
 
 LDA Top 10 words for topic #2:
 ['hill', 'trump', 'white', 'people', 'blm', 'terrorist', 'building', 'riots', 'riot', 'attack']
+False equivalency between Black Lives Matter and Capitol siege: Experts, advocates  - ABC News
 
 
 
 LDA Top 10 words for topic #3:
 ['insurrection', 'metal', 'took', 'storming', 'right', 'going', 'people', 'just', 'police', 'trump']
+Capitol Insurrection Updates : NPR
 
 
 
 LDA Top 10 words for topic #4:
 ['protests', 'siege', 'guard', 'national', 'officer', 'job', 'attack', 'inside', 'trump', 'police']
+How a String of Failures Led to the Capitol Siege - The New York Times
 
 
 
