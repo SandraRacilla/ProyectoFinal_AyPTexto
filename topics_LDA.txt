@@ -1,26 +1,26 @@
 				Temas LDA
 LDA Top 10 words for topic #0:
-['death', 'amp', 'hill', 'died', 'building', 'just', 'trump', 'officer', 'people', 'police']
+['nazis', 'mob', 'riots', 'don', 'law', 'just', 'people', 'attack', 'police', 'trump']
 
 
 
 LDA Top 10 words for topic #1:
-['people', 'peacefully', 'amp', 'police', '2021', 'heard', 'building', 'president', 'know', 'trump']
+['said', 'stormed', 'riot', 'did', 'protests', 'building', 'blm', 'police', 'people', 'trump']
 
 
 
 LDA Top 10 words for topic #2:
-['building', 'violence', 'attack', 'did', 'amp', 'just', 'riot', 'police', 'people', 'trump']
+['peacefully', 'donald', '2021', 'make', 'know', 'officer', 'president', 'police', 'building', 'trump']
 
 
 
 LDA Top 10 words for topic #3:
-['building', 'president', 'yes', 'storming', 'mob', 'amp', 'job', 'inside', 'trump', 'attack']
+['police', 'mob', 'president', 'violence', 'riot', 'supporters', 'just', 'attack', 'people', 'trump']
 
 
 
 LDA Top 10 words for topic #4:
-['did', 'help', 'insurrection', 'just', 'attack', 'right', 'stormed', 'people', 'like', 'trump']
+['coup', 'insurrection', 'like', 'lead', 'lawmakers', 'biggs', 'trump', 'inside', 'job', 'attack']
 
 
 

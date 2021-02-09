@@ -23,7 +23,7 @@ def txt_NMF(reviews_datasets_NMF):
     max_df=0.80 -> Palabras que aparezcan al menos en 80% del documento
     min_df=2 -> Palabras que aparezcan al menos en 2 documentos
     """
-    my_stop_words=text.ENGLISH_STOP_WORDS.union(["https"],["nhttps"],["d4leu57x7h"])
+    my_stop_words=text.ENGLISH_STOP_WORDS.union(["https"],["nhttps"],["d4leu57x7h"],["amp"])
     tfidf_vect = TfidfVectorizer(max_df=0.8, min_df=2, stop_words=my_stop_words)
     ##Matriz generada con TFIDF
     doc_term_matrix = tfidf_vect.fit_transform(reviews_datasets_NMF['data__text'].values.astype('U'))
@@ -77,7 +77,7 @@ def txt_LDA(reviews_datasets_LDA):
     max_df=0.80 -> Palabras que aparezcan al menos en 80% del documento
     min_df=2 -> Palabras que aparezcan al menos en 2 documentos
     """
-    my_stop_words=text.ENGLISH_STOP_WORDS.union(["https"],["nhttps"],["d4leu57x7h"])
+    my_stop_words=text.ENGLISH_STOP_WORDS.union(["https"],["nhttps"],["d4leu57x7h"],["amp"])
     count_vect = CountVectorizer(max_df=0.8, min_df=2, stop_words=my_stop_words)
     doc_term_matrix = count_vect.fit_transform(reviews_datasets_LDA['data__text'].values.astype('U'))
 
