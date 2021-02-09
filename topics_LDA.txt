@@ -1,26 +1,26 @@
 				Temas LDA
 LDA Top 10 words for topic #0:
-['death', 'amp', 'hill', 'died', 'building', 'just', 'trump', 'officer', 'people', 'police']
+['died', 'donald', 'just', 'make', 'know', 'president', 'police', 'building', 'trump', 'people']
 
 
 
 LDA Top 10 words for topic #1:
-['people', 'peacefully', 'amp', 'police', '2021', 'heard', 'building', 'president', 'know', 'trump']
+['antifa', 'insurrection', 'riot', 'coup', 'attack', 'police', 'people', 'supporters', 'amp', 'trump']
 
 
 
 LDA Top 10 words for topic #2:
-['building', 'violence', 'attack', 'did', 'amp', 'just', 'riot', 'police', 'people', 'trump']
+['hill', 'trump', 'white', 'people', 'blm', 'terrorist', 'building', 'riots', 'riot', 'attack']
 
 
 
 LDA Top 10 words for topic #3:
-['building', 'president', 'yes', 'storming', 'mob', 'amp', 'job', 'inside', 'trump', 'attack']
+['insurrection', 'metal', 'took', 'storming', 'right', 'going', 'people', 'just', 'police', 'trump']
 
 
 
 LDA Top 10 words for topic #4:
-['did', 'help', 'insurrection', 'just', 'attack', 'right', 'stormed', 'people', 'like', 'trump']
+['protests', 'siege', 'guard', 'national', 'officer', 'job', 'attack', 'inside', 'trump', 'police']
 
 
 

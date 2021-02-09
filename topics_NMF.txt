@@ -5,7 +5,7 @@ NMF Top 10 words for topic #0:
 
 
 NMF Top 10 words for topic #1:
-['like', 'mob', 'did', 'violence', 'just', 'stormed', 'supporters', 'people', 'amp', 'trump']
+['antifa', 'mob', 'did', 'violence', 'just', 'stormed', 'supporters', 'people', 'amp', 'trump']
 
 
 
