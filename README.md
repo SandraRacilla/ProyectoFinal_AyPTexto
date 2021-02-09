@@ -2,10 +2,10 @@
 ### Análisis y Procesamiento inteligente de Textos (2932)
 ### Grupo: 01
 ###
-### Proyectos Final
-### ¿Cuáles son los argumentos involucrados en el Asalto del Capitolio de Estados Unidos de 2021 y cuál es la postura de las personas ante estos?
+### Proyecto Final
+#### ¿Cuáles son los argumentos involucrados en el Asalto del Capitolio de Estados Unidos de 2021 y cuál es la postura de las personas ante estos?
 
-###
+#
 ### Aguilar Luna Gabriel Daniel @GabDn
 
 ### García Racilla Sandra @SandraRacilla
