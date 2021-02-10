@@ -46,3 +46,8 @@ Este comando además de habilitar el servicio, abre un navegador con la interfaz
 
 ## Visualizar resultados sin correr el proyecto 🧐
 En este repositorio ya se tiene cargado un cuaderno con todos resultados obtenidos. En caso de sólo querer consultarlos se puede hacer directamente desde [aquí](https://github.com/SandraRacilla/ProyectoFinal_AyPTexto/blob/main/Miner%C3%ADa_de_T%C3%B3picos.ipynb).
+
+--- 
+
+## Documentación 🖋️
+Puede visualizarse una documentación detallada del proyecto [aquí](https://github.com/SandraRacilla/ProyectoFinal_AyPTexto/blob/main/ProyectoFinal_ClasificacionPosturas.pdf).
