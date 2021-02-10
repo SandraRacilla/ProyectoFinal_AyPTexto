@@ -50,4 +50,4 @@ En este repositorio ya se tiene cargado un cuaderno con todos resultados obtenid
 --- 
 
 ## Documentación 🖋️
-Puede visualizarse una documentación detallada del proyecto [aquí](https://github.com/SandraRacilla/ProyectoFinal_AyPTexto/blob/main/ProyectoFinal_ClasificacionPosturas.pdf).
+Puede visualizarse la documentación detallada del proyecto [aquí](https://github.com/SandraRacilla/ProyectoFinal_AyPTexto/blob/main/ProyectoFinal_ClasificacionPosturas.pdf).
